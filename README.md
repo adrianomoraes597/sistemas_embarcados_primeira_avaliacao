@@ -16,3 +16,8 @@ seguida o display será zerado. O Segundo número será fornecido e será
 pressionado Enter para que a soma seja efetuada. O resultado da soma
 aparecerá em binário nos três leds. Ao se pressionar Enter novamente, o display
 será zerado e os leds apagados, para uma nova soma ser efetuada.
+
+
+## Prototipação do Circuito 
+
+O circuito foi prototipado usando a plataforma de simulação Tinkercad 
