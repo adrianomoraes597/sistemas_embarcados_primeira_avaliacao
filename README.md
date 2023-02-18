@@ -22,4 +22,4 @@ será zerado e os leds apagados, para uma nova soma ser efetuada.
 
 O circuito foi prototipado usando a plataforma de simulação Tinkercad 
 
-![calculadora com a operação de soma](img/Circuito.png)
+![calculadora com a operação de soma](img/Circuito.PNG)
